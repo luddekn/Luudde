@@ -1,4 +1,3 @@
 
-<body>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/LuddeKN.png" alt="TryHackMe">
-</body>
+<script src="https://tryhackme.com/badge/1206391"></script>
+
